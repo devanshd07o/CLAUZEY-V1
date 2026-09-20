@@ -26,16 +26,18 @@
 
 ## 📖 What is Clauzey?
 
-**Clauzey 2.0** is an enterprise-grade desktop engine designed to orchestrate the world's most powerful frontier AI models simultaneously on your machine:
+**Clauzey 2.0** is a desktop engine that orchestrates today's leading AI models on your machine:
 
-* **Claude 3.7 Sonnet** (Deep Code Reasoning & System Architecture)
-* **OpenAI ChatGPT-4o** (General Logic & Synthesis)
-* **DeepSeek R1** (Low-Level Concurrency & Algorithmic Analysis)
-* **xAI Grok 2** (Fast Real-Time Analysis)
-* **Perplexity Sonar** (Live Web Intelligence & Verified Citations)
-* **Google Gemini 2.0 Flash** (High-Context Ingestion)
+* **Claude** (Anthropic): Sonnet 5 on free accounts, up to Opus 5 / Fable 5.1 on paid
+* **ChatGPT** (OpenAI): GPT-5.6 Luna on free accounts, GPT-6 Astra / GPT-5.6 Sol on paid
+* **DeepSeek**: V4.1 Flash / V4 series
+* **Grok** (xAI): Grok 4.x family (Grok 4.6 on paid)
+* **Perplexity**: Sonar-powered live web search with citations
+* **Gemini** (Google): Gemini 3.6 Flash family
 
-Instead of juggling 6 browser tabs and dealing with fragmented context, Clauzey gives you a unified, dark luxury command center where frontier models work together in **specialized multi-agent councils**, **parallel comparisons**, and **automated fallback synthesis**.
+*Models run through your own logged-in sessions or your own API keys. Which exact model you get depends on your account tier.*
+
+Instead of juggling 6 browser tabs and dealing with fragmented context, Clauzey gives you a unified, luxury command center where frontier models work together in **specialized multi-agent councils**, **parallel comparisons**, and **automated fallback synthesis**.
 
 ---
 
