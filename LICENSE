@@ -1,0 +1,34 @@
+CLAUZEYY PROPRIETARY END-USER LICENSE AGREEMENT (EULA)
+Copyright (C) 2026 Devansh. All Rights Reserved.
+
+IMPORTANT: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING CLAUZEYY. BY INSTALLING, COPYING, OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. GRANT OF LICENSE
+Devansh ("Author", "Licensor") grants you ("User", "Licensee") a personal, non-exclusive, non-transferable, revocable license to install and run Clauzeyy ("Software") on your personal computing devices for personal, educational, research, and non-commercial productivity purposes in accordance with the terms of this Agreement.
+
+2. OWNERSHIP & INTELLECTUAL PROPERTY
+The Software, including but not limited to its source code, architecture, algorithms, user interface, icons, branding, documentation, and orchestrator pipelines, is the exclusive intellectual property of Devansh. This Agreement is not a sale of the Software. All rights, title, and interest not expressly granted herein are reserved exclusively by Devansh.
+
+3. LICENSE TIERS & EVALUATION
+(a) Free Core Evaluation: The core software and its foundational features are provided free of charge for evaluation, personal development, and general usage.
+(b) Future Enhancements: The Author reserves the right to introduce optional advanced features, extensions, or modules in future releases under amended or tiered licensing models.
+
+4. RESTRICTIONS
+You shall not, and shall not permit or authorize any third party to:
+(a) Decompile, reverse engineer, disassemble, decrypt, or attempt to derive the source code or architectural secrets of the Software;
+(b) Modify, translate, adapt, alter, or create derivative works of the Software;
+(c) Rent, lease, lend, sell, sublicense, distribute, publish, or commercially host the Software or any portion thereof without explicit prior written authorization from Devansh;
+(d) Remove, alter, or obscure any proprietary notices, copyright notices, trademarks, or digital watermarks from the Software;
+(e) Bypass, disable, circumvent, or tamper with any evaluation limits, expiration timers, or security mechanisms embedded within the Software.
+
+5. THIRD-PARTY SERVICES & AI PROVIDERS
+The Software acts as a client-side interface connecting to third-party artificial intelligence platforms (including but not limited to Anthropic, OpenAI, xAI, Google, DeepSeek, Perplexity, and Groq). The User acknowledges that access to and use of third-party services are governed independently by those providers' respective terms and policies. The Author assumes no liability for service changes, rate limits, account actions, or terms enforced by third-party providers.
+
+6. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL DEVANSH BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, DATA LOSS, BUSINESS INTERRUPTION, HARDWARE DAMAGE, OR ANY OTHER COMMERCIAL LOSSES) ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE SOFTWARE.
+
+8. TERMINATION
+This Agreement is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must cease all use of the Software and delete all copies in your possession.
