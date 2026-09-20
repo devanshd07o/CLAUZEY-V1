@@ -129,12 +129,12 @@ In **signed-in session mode** you interact with each provider's web service usin
 ## Installation
 
 ### Option 1: Installer (recommended)
-1. Download **`Clauzey-Setup-2.0.0.exe`** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
+1. Download **`Clauzey-Setup.exe`** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
 2. Run it and choose an install location. The default is your user directory and needs no admin prompt.
 3. Desktop and Start Menu shortcuts are created automatically. Launch Clauzey and follow the first-run setup.
 
 ### Option 2: Portable
-1. Download **`Clauzey-Portable-2.0.0.exe`** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
+1. Download **`Clauzey.exe`** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
 2. Run it from your desktop, an SSD or a USB drive. No installation is needed.
 3. All user data stays inside a self-contained data directory.
 
