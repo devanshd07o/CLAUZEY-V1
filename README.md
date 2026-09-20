@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![Clauzey Hero Banner](<img width="1862" height="1082" alt="image" src="https://github.com/user-attachments/assets/d01716e4-560d-433e-8cfc-b4630daa1bd6" />
-)
+
 
 ### **Next-Generation Multi-LLM Orchestration Desktop Engine**
 *Local-First • Privacy-Centric • Multi-Agent Consensus • Ultra-Lightweight*
