@@ -1,8 +1,9 @@
-# 🌌 Clauzey 2.0 (CLAUZEY-V1)
+<img width="1862" height="1082" alt="image" src="https://github.com/user-attachments/assets/84ce7e11-671a-4d9f-bf43-9e24d1501a59" /># 🌌 Clauzey 2.0 (CLAUZEY-V1)
 
 <div align="center">
 
-![Clauzey Hero Banner](assets/screenshots/01_multi_model_orchestration.png)
+![Clauzey Hero Banner](<img width="1862" height="1082" alt="image" src="https://github.com/user-attachments/assets/d01716e4-560d-433e-8cfc-b4630daa1bd6" />
+)
 
 ### **Next-Generation Multi-LLM Orchestration Desktop Engine**
 *Local-First • Privacy-Centric • Multi-Agent Consensus • Ultra-Lightweight*
