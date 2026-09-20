@@ -15,7 +15,7 @@ Compare models side by side, run multi-model councils, and synthesize the best a
 [![Release](https://img.shields.io/badge/Official%20Release-v2.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/devanshd07o/CLAUZEY-V1/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20x64-0078D6.svg?style=for-the-badge&logo=windows)](https://github.com/devanshd07o/CLAUZEY-V1/releases)
 [![Privacy](https://img.shields.io/badge/Privacy-No%20Telemetry-22C55E.svg?style=for-the-badge&logo=shield)](#privacy-and-security)
-[![License](https://img.shields.io/badge/License-Free%20Evaluation-F59E0B.svg?style=for-the-badge)](#license)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-F59E0B.svg?style=for-the-badge)](LICENSE.md)
 
 <br />
 
@@ -188,7 +188,11 @@ The installers are not code-signed yet, and Windows warns about apps without an 
 
 ## License
 
-Clauzey 2.0 is distributed under a proprietary **free evaluation license**, valid through **November 21, 2026**. For extended licensing or custom integrations, contact the developer through the in-app About tab.
+Copyright (C) 2026 Devansh. **All Rights Reserved.**
+
+Clauzey is proprietary software, provided free of charge for personal, educational, research and non-commercial use under the terms of the [End-User License Agreement](LICENSE.md). Reverse engineering, modification, redistribution and commercial hosting are not permitted without written authorization. The current v2.0.0 build includes an evaluation window through **November 21, 2026**, and future releases may introduce optional tiered features.
+
+For extended licensing or custom integrations, contact the developer through the in-app About tab.
 
 Bug reports and feature requests: [GitHub Issues](https://github.com/devanshd07o/CLAUZEY-V1/issues).
 
