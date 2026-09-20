@@ -5,6 +5,7 @@
 <br />
 
 # Clauzey 2.0
+# **[Download Installer](https://github.com/devanshd07o/CLAUZEY-V1/releases)** &nbsp;·&nbsp; **[Download Portable](https://github.com/devanshd07o/CLAUZEY-V1/releases)**
 
 ### One desktop workspace for every frontier AI model
 
@@ -12,7 +13,7 @@ Compare models side by side, run multi-model councils, and synthesize the best a
 
 <br />
 
-# **[Download Installer](https://github.com/devanshd07o/CLAUZEY-V1/releases)** &nbsp;·&nbsp; **[Download Portable](https://github.com/devanshd07o/CLAUZEY-V1/releases)**
+
 
 [Features](#features) · [Screenshots](#screenshots) · [Privacy & Security](#privacy-and-security) · [Installation](#installation) · [FAQ](#faq)
 
