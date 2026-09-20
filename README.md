@@ -4,9 +4,7 @@
 
 <br />
 
-# Clauzey
-
-# **[Download Installer](https://github.com/devanshd07o/CLAUZEY-V1/releases)** &nbsp;·&nbsp; **[Download Portable](https://github.com/devanshd07o/CLAUZEY-V1/releases)**
+# Clauzey 2.0
 
 ### One desktop workspace for every frontier AI model
 
@@ -14,14 +12,7 @@ Compare models side by side, run multi-model councils, and synthesize the best a
 
 <br />
 
-[![Release](https://img.shields.io/badge/Official%20Release-v2.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/devanshd07o/CLAUZEY-V1/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20x64-0078D6.svg?style=for-the-badge&logo=windows)](https://github.com/devanshd07o/CLAUZEY-V1/releases)
-[![Privacy](https://img.shields.io/badge/Privacy-No%20Telemetry-22C55E.svg?style=for-the-badge&logo=shield)](#privacy-and-security)
-[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-F59E0B.svg?style=for-the-badge)](LICENSE.md)
-
-<br />
-
-
+# **[Download Installer](https://github.com/devanshd07o/CLAUZEY-V1/releases)** &nbsp;·&nbsp; **[Download Portable](https://github.com/devanshd07o/CLAUZEY-V1/releases)**
 
 [Features](#features) · [Screenshots](#screenshots) · [Privacy & Security](#privacy-and-security) · [Installation](#installation) · [FAQ](#faq)
 
@@ -54,10 +45,10 @@ No single model is best at everything. Clauzey brings Claude, ChatGPT, Gemini, D
 
 ### Connection modes
 
-**API keys (recommended for heavy use)**
+**API keys (recommended for heavy use)**  
 Bring your own keys for Anthropic, OpenAI, Groq, Perplexity and OpenRouter. You get predictable models and official rate limits, billed directly by the provider.
 
-**Signed-in sessions**
+**Signed-in sessions**  
 Sign in to your existing accounts inside Clauzey's isolated provider panels and use the model your plan includes. Please read [Third-Party Services](#third-party-services) before using this mode.
 
 ---
@@ -75,7 +66,7 @@ Sign in to your existing accounts inside Clauzey's isolated provider panels and 
 | **Integrated Code Runner** | Run code snippets directly from the chat interface. |
 | **Developer Profile** | Set your role, domain and standing directives once, and every session starts from your context. |
 | **Themes and Typography** | 30+ light and dark themes and 25+ coding fonts, with live preview. |
-| **Global Quick Capsule** | Summon Clauzey from anywhere on your desktop with `Ctrl` + `Alt` + `Space`. |
+| **Global Quick Capsule** | Summon Clauzey from anywhere on your desktop with Ctrl + Alt + Space. |
 | **Performance Mode** | One toggle that disables transitions and GPU blur effects for smooth operation on lower-end hardware. |
 
 ---
@@ -84,37 +75,29 @@ Sign in to your existing accounts inside Clauzey's isolated provider panels and 
 
 ### Parallel Compare
 Send one prompt to several models and read their answers side by side, with syntax-highlighted code and one-click copy.
-
-![Multi Model Orchestration](assets/screenshots/01_multi_model_orchestration.png)
+![Parallel Compare](assets/screenshots/01_multi_model_orchestration.png)
 
 ### Council War Room
 Specialized roles deliberate in parallel and compile a consensus blueprint with interactive data tables.
-
 ![Council War Room](assets/screenshots/02_council_war_room.png)
 
 ### Developer Profile and Onboarding
 Set your persona, technical domain and directives so responses start from your context.
-
-![Developer Onboarding](assets/screenshots/03_developer_onboarding.png)
+![Developer Profile](assets/screenshots/03_developer_onboarding.png)
 
 ### Appearance and Typography
 Switch between 30+ themes and 25+ coding fonts with instant preview.
-
 ![Appearance and Typography](assets/screenshots/04_settings_appearance.png)
 
 ---
 
 ## Privacy and Security
 
-**Local storage, no telemetry.** Sessions, prompts and responses are stored in a local SQLite database on your machine (`%APPDATA%\Clauzey\clauzey.db`). Clauzey itself sends no telemetry, analytics or usage pings, and it does not route your data through any Clauzey server.
-
-**Your prompts go to the providers you choose.** Clauzey sends each prompt to the provider you select, through your signed-in session or your API key, and that provider's own privacy policy applies to it.
-
-**Isolated provider sessions.** Each provider runs in its own Chromium session partition. Cookies, tokens and local storage are kept separate, so one provider's login cannot read or affect another's.
-
-**API key handling.** Keys you add are stored locally on your device and are sent only to the provider they belong to, over HTTPS, in request headers and never in URLs.
-
-**Offline license check.** The evaluation period is verified locally, including clock-rollback detection, with no internet check-in required.
+* **Local storage, no telemetry.** Sessions, prompts and responses are stored in a local SQLite database on your machine (`%APPDATA%\Clauzey\clauzey.db`). Clauzey itself sends no telemetry, analytics or usage pings, and it does not route your data through any Clauzey server.
+* **Your prompts go to the providers you choose.** Clauzey sends each prompt to the provider you select, through your signed-in session or your API key, and that provider's own privacy policy applies to it.
+* **Isolated provider sessions.** Each provider runs in its own Chromium session partition. Cookies, tokens and local storage are kept separate, so one provider's login cannot read or affect another's.
+* **API key handling.** Keys you add are stored locally on your device and are sent only to the provider they belong to, over HTTPS, in request headers and never in URLs.
+* **Offline license check.** The evaluation period is verified locally, including clock-rollback detection, with no internet check-in required.
 
 ---
 
@@ -129,12 +112,12 @@ In **signed-in session mode** you interact with each provider's web service usin
 ## Installation
 
 ### Option 1: Installer (recommended)
-1. Download **`Clauzey-Setup.exe`** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
+1. Download **[`Clauzey-Setup.exe`](https://github.com/devanshd07o/CLAUZEY-V1/releases)** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
 2. Run it and choose an install location. The default is your user directory and needs no admin prompt.
 3. Desktop and Start Menu shortcuts are created automatically. Launch Clauzey and follow the first-run setup.
 
 ### Option 2: Portable
-1. Download **`Clauzey.exe`** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
+1. Download **[`Clauzey.exe`](https://github.com/devanshd07o/CLAUZEY-V1/releases)** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
 2. Run it from your desktop, an SSD or a USB drive. No installation is needed.
 3. All user data stays inside a self-contained data directory.
 
@@ -190,9 +173,9 @@ The installers are not code-signed yet, and Windows warns about apps without an 
 
 ## License
 
-Copyright (C) 2026 Devansh. **All Rights Reserved.**
+**Copyright (C) 2026 Devansh. All Rights Reserved.**
 
-Clauzey is proprietary software, provided free of charge for personal, educational, research and non-commercial use under the terms of the [End-User License Agreement](LICENSE.md). Reverse engineering, modification, redistribution and commercial hosting are not permitted without written authorization. The current v2.0.0 build includes an evaluation window through **November 21, 2026**, and future releases may introduce optional tiered features.
+Clauzey is proprietary software, provided free of charge for personal, educational, research and non-commercial use under the terms of the [End-User License Agreement](LICENSE.md). Reverse engineering, modification, redistribution and commercial hosting are not permitted without written authorization. The current v2.0.0 build includes an evaluation window through November 21, 2026, and future releases may introduce optional tiered features.
 
 For extended licensing or custom integrations, contact the developer through the in-app About tab.
 
@@ -204,6 +187,6 @@ Bug reports and feature requests: [GitHub Issues](https://github.com/devanshd07o
 
 **[Download Clauzey 2.0 for Windows](https://github.com/devanshd07o/CLAUZEY-V1/releases)**
 
-Built by Devansh
+*Built by Devansh*
 
 </div>
