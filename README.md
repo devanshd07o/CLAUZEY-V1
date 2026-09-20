@@ -4,7 +4,7 @@
 
 <br />
 
-# Clauzey 2.0
+# Clauzey
 
 # **[Download Installer](https://github.com/devanshd07o/CLAUZEY-V1/releases)** &nbsp;·&nbsp; **[Download Portable](https://github.com/devanshd07o/CLAUZEY-V1/releases)**
 
