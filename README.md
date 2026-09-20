@@ -1,154 +1,196 @@
-<img width="1862" height="1082" alt="image" src="https://github.com/user-attachments/assets/84ce7e11-671a-4d9f-bf43-9e24d1501a59" /># 🌌 Clauzey 2.0 (CLAUZEY-V1)
-
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/d01716e4-560d-433e-8cfc-b4630daa1bd6" alt="Clauzey" width="100%" />
 
+<br />
 
-### **Next-Generation Multi-LLM Orchestration Desktop Engine**
-*Local-First • Privacy-Centric • Multi-Agent Consensus • Ultra-Lightweight*
+# Clauzey 2.0
+
+### One desktop workspace for every frontier AI model
+
+Compare models side by side, run multi-model councils, and synthesize the best answer, all from a single local-first Windows app.
+
+<br />
 
 [![Release](https://img.shields.io/badge/Official%20Release-v2.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/devanshd07o/CLAUZEY-V1/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6.svg?style=for-the-badge&logo=windows)](https://github.com/devanshd07o/CLAUZEY-V1/releases)
-[![Security](https://img.shields.io/badge/Security-Local--First%20%7C%20Zero--Telemetry-22C55E.svg?style=for-the-badge&logo=shield)](https://github.com/devanshd07o/CLAUZEY-V1#%EF%B8%8F-safety-privacy--security-architecture)
-[![License](https://img.shields.io/badge/Evaluation-2--Month%20Free%20Trial-F59E0B.svg?style=for-the-badge)](https://github.com/devanshd07o/CLAUZEY-V1)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20x64-0078D6.svg?style=for-the-badge&logo=windows)](https://github.com/devanshd07o/CLAUZEY-V1/releases)
+[![Privacy](https://img.shields.io/badge/Privacy-No%20Telemetry-22C55E.svg?style=for-the-badge&logo=shield)](#privacy-and-security)
+[![License](https://img.shields.io/badge/License-Free%20Evaluation-F59E0B.svg?style=for-the-badge)](#license)
 
----
+<br />
 
-### [🚀 Download Windows Installer (`Clauzey-Setup-2.0.0.exe`)](https://github.com/devanshd07o/CLAUZEY-V1/releases)
-#### [⚡ Download Standalone Portable (`Clauzey-Portable-2.0.0.exe`)](https://github.com/devanshd07o/CLAUZEY-V1/releases)
+**[Download Installer](https://github.com/devanshd07o/CLAUZEY-V1/releases)** &nbsp;·&nbsp; **[Download Portable](https://github.com/devanshd07o/CLAUZEY-V1/releases)**
 
-[✨ Features](#-key-features) • [🖼️ Interface Showcase](#%EF%B8%8F-interface-showcase) • [🛡️ Safety & Security](#%EF%B8%8F-safety-privacy--security-architecture) • [📥 Installation Guide](#-installation-guide) • [⚙️ Low-End PC Boost](#-low-end-pc-performance-mode)
+[Features](#features) · [Screenshots](#screenshots) · [Privacy & Security](#privacy-and-security) · [Installation](#installation) · [FAQ](#faq)
 
 </div>
 
 ---
 
-## 📖 What is Clauzey?
+## Overview
 
-**Clauzey 2.0** is a desktop engine that orchestrates today's leading AI models on your machine:
+No single model is best at everything. Clauzey brings Claude, ChatGPT, Gemini, DeepSeek, Grok and Perplexity into one workspace, so you can send a prompt once and get several perspectives, let specialist roles deliberate, or chain models so each step builds on the last. No more juggling browser tabs or copying context from one chat to another.
 
-* **Claude** (Anthropic): Sonnet 5 on free accounts, up to Opus 5 / Fable 5.1 on paid
-* **ChatGPT** (OpenAI): GPT-5.6 Luna on free accounts, GPT-6 Astra / GPT-5.6 Sol on paid
-* **DeepSeek**: V4.1 Flash / V4 series
-* **Grok** (xAI): Grok 4.x family (Grok 4.6 on paid)
-* **Perplexity**: Sonar-powered live web search with citations
-* **Gemini** (Google): Gemini 3.6 Flash family
-
-*Models run through your own logged-in sessions or your own API keys. Which exact model you get depends on your account tier.*
-
-Instead of juggling 6 browser tabs and dealing with fragmented context, Clauzey gives you a unified, luxury command center where frontier models work together in **specialized multi-agent councils**, **parallel comparisons**, and **automated fallback synthesis**.
+<div align="center">
+<img src="https://github.com/user-attachments/assets/84ce7e11-671a-4d9f-bf43-9e24d1501a59" alt="Clauzey main interface" width="100%" />
+</div>
 
 ---
 
-## 🖼️ Interface Showcase
+## Supported Providers
 
-### 1. Multi-Model Parallel Orchestration (Live Comparison)
-Compare responses from Claude 3.7, GPT-4o, and DeepSeek R1 side-by-side with rich syntax-highlighted code execution blocks and instant copy tooling.
+| Provider | Models |
+| :--- | :--- |
+| **Claude** (Anthropic) | Sonnet 5 on free accounts; Opus 5 and Fable 5.1 on paid plans |
+| **ChatGPT** (OpenAI) | GPT-5.6 Luna on free accounts; GPT-6 Astra and GPT-5.6 Sol on paid plans |
+| **Gemini** (Google) | Gemini 3.6 Flash family |
+| **DeepSeek** | V4.1 Flash and the V4 series |
+| **Grok** (xAI) | Grok 4.x family; Grok 4.6 on paid plans |
+| **Perplexity** | Sonar-powered live web search with citations |
+
+> Available models depend on your account tier and change as providers update their lineups. Clauzey uses whichever model the provider serves to your account or API key.
+
+### Connection modes
+
+**API keys (recommended for heavy use)**
+Bring your own keys for Anthropic, OpenAI, Groq, Perplexity and OpenRouter. You get predictable models and official rate limits, billed directly by the provider.
+
+**Signed-in sessions**
+Sign in to your existing accounts inside Clauzey's isolated provider panels and use the model your plan includes. Please read [Third-Party Services](#third-party-services) before using this mode.
+
+---
+
+## Features
+
+| Feature | Description |
+| :--- | :--- |
+| **Council War Room** | Specialized roles (Chief Architect, Live Web Intel, Chaos Lead) deliberate in parallel and synthesize one consensus blueprint. |
+| **Super Mixture-of-Agents** | Proposer models draft diverse candidate answers, then a master synthesizer merges them into the strongest response. |
+| **Parallel Compare** | Send one prompt to up to six models at once and compare depth, speed and accuracy side by side. |
+| **Sequential Relay** | Chain models so the output of one step primes the next specialist. |
+| **Automatic Fallback** | If a model fails or is rate-limited mid-run, Clauzey can hand that step to another council member or to your configured Groq key, so the pipeline keeps moving. |
+| **Rich Output Rendering** | Markdown, syntax-highlighted code, LaTeX math, and interactive tables with sorting, search, copy and CSV export. |
+| **Integrated Code Runner** | Run code snippets directly from the chat interface. |
+| **Developer Profile** | Set your role, domain and standing directives once, and every session starts from your context. |
+| **Themes and Typography** | 30+ light and dark themes and 25+ coding fonts, with live preview. |
+| **Global Quick Capsule** | Summon Clauzey from anywhere on your desktop with `Ctrl` + `Alt` + `Space`. |
+| **Performance Mode** | One toggle that disables transitions and GPU blur effects for smooth operation on lower-end hardware. |
+
+---
+
+## Screenshots
+
+### Parallel Compare
+Send one prompt to several models and read their answers side by side, with syntax-highlighted code and one-click copy.
+
 ![Multi Model Orchestration](assets/screenshots/01_multi_model_orchestration.png)
 
----
+### Council War Room
+Specialized roles deliberate in parallel and compile a consensus blueprint with interactive data tables.
 
-### 2. Council War Room (Consensus Blueprint & Interactive Data Tables)
-Deploy multi-agent deliberation: **Chief Architect (Claude)**, **Live Web Intel (Perplexity)**, and **Chaos Lead (DeepSeek)** deliberate in parallel to compile an authoritative production blueprint with interactive tables.
 ![Council War Room](assets/screenshots/02_council_war_room.png)
 
----
+### Developer Profile and Onboarding
+Set your persona, technical domain and directives so responses start from your context.
 
-### 3. Developer Identity & Onboarding Flow
-Personalize your AI collaboration environment with custom developer persona grounding, technical domain calibration, and directive refinement.
 ![Developer Onboarding](assets/screenshots/03_developer_onboarding.png)
 
----
+### Appearance and Typography
+Switch between 30+ themes and 25+ coding fonts with instant preview.
 
-### 4. Appearance & Typography Studio (25+ Programming Fonts)
-Switch between 30+ precision light/dark themes and 25+ curated coding fonts with instant live preview.
-![Appearance & Typography](assets/screenshots/04_settings_appearance.png)
-
----
-
-## 🛡️ Safety, Privacy & Security Architecture
-
-Clauzey was built with a non-negotiable **Local-First, Zero-Trust** security foundation:
-
-### 🔒 1. 100% Local SQLite Persistence (Zero Telemetry)
-* **No Telemetry, No Analytics, No External Tracking**: Every single prompt, response, code snippet, and session is stored exclusively in your local SQLite database (`%APPDATA%\Clauzey\clauzey.db`).
-* **Offline-Ready Data Layer**: Clauzey does not send telemetry pings, behavioral tracking data, or prompt analytics to any central server. Your data stays on your hardware.
-
-### 🛡️ 2. Isolated Chromium Session Partitions
-* Each AI provider operates inside an isolated Chromium WebContents partition (`persist:clauzey_*`).
-* Authentication cookies, session tokens, and localStorage entries are strictly compartmentalized. Google accounts, Claude logins, and OpenAI sessions cannot share state, leak cookies, or cross-track activity.
-
-### 🕶️ 3. Stealth Anti-Bot Masquerading
-* Built-in real Chromium User-Agent emulation (`Chrome/132.0.6834.196`) and automated flag stripping (`disable-blink-features: AutomationControlled`).
-* Seamless "Continue with Google" OAuth flows without COOP/COEP interference, preventing bot detection or account flags during web-session routing.
-
-### 🔑 4. Zero-Leak Credential Vault
-* When utilizing Bring-Your-Own-Key (BYOK) APIs (Anthropic, OpenAI, Groq, Perplexity, OpenRouter), keys are transmitted strictly via secure HTTP headers (`x-goog-api-key`, `Authorization: Bearer`).
-* Credentials are never exposed in URL query parameters and never output to debug logs or crash dumps.
-
-### ⏱️ 5. Tamper-Proof Monotonic License Guard
-* Includes a built-in **2-Month Free Evaluation Period** (active through **November 21, 2026**).
-* Uses local monotonic clock drift checks to prevent system clock rollbacks, without requiring an invasive internet "phone-home" requirement.
+![Appearance and Typography](assets/screenshots/04_settings_appearance.png)
 
 ---
 
-## ⚡ Key Features
+## Privacy and Security
 
-| Mode / Feature | Architectural Description |
-| :--- | :--- |
-| **Council War Room** | 3 specialized frontier models collaborate simultaneously (Architect + Live Web Intel + Chaos Lead) to synthesize an authoritative Consensus Blueprint. |
-| **Super Mixture-of-Agents (MoA)** | Multi-layer ensemble where proposer models generate diverse candidate drafts before a master synthesizer unifies the optimal response. |
-| **Parallel Compare** | Ask any prompt across up to 6 frontier models simultaneously and compare output depth, speed, and accuracy side-by-side. |
-| **Sequential Relay** | Chain multiple models where output from one step automatically primes the context of the next specialist. |
-| **Low-End PC Performance Mode** | 1-click toggle in Settings that disables transitions, strips GPU backdrop blurs, and halts WebGL canvas loops for instant 60 FPS operation on budget laptops. |
-| **Integrated Code Runner** | Sandboxed native runner for executing code snippets directly from the chat interface. |
-| **Live Typography Sync** | Real-time font switching across 25+ curated coding fonts (JetBrains Mono, Fira Code, Inter, Plus Jakarta Sans, Victor Mono). |
-| **Global Quick Capsule** | Summon Clauzey instantly from anywhere on your desktop via global shortcut (`Ctrl+Alt+Space` / `Cmd+Alt+Space`). |
+**Local storage, no telemetry.** Sessions, prompts and responses are stored in a local SQLite database on your machine (`%APPDATA%\Clauzey\clauzey.db`). Clauzey itself sends no telemetry, analytics or usage pings, and it does not route your data through any Clauzey server.
 
----
+**Your prompts go to the providers you choose.** Clauzey sends each prompt to the provider you select, through your signed-in session or your API key, and that provider's own privacy policy applies to it.
 
-## 🚀 Low-End PC Performance Mode
+**Isolated provider sessions.** Each provider runs in its own Chromium session partition. Cookies, tokens and local storage are kept separate, so one provider's login cannot read or affect another's.
 
-Have a budget laptop or low-end machine? Clauzey includes a dedicated **Performance Boost Mode**:
-* **Transitions Clamped to 0ms**: Eliminates UI latency and animation lag.
-* **GPU Blurs Stripped**: Removes costly `backdrop-filter: blur(...)` shaders.
-* **Canvas Loops Paused**: Suspends real-time WebGL/2D fluid dot waves during typing and idle.
-* **Opaque High-Contrast Surfaces**: Replaces heavy semi-transparent glass with crisp, readable solid theme layers.
+**API key handling.** Keys you add are stored locally on your device and are sent only to the provider they belong to, over HTTPS, in request headers and never in URLs.
 
-Toggle it anytime in **Settings ➔ Appearance ➔ Smooth Animations & Motion**.
+**Offline license check.** The evaluation period is verified locally, including clock-rollback detection, with no internet check-in required.
 
 ---
 
-## 📥 Installation Guide
+## Third-Party Services
 
-### Option 1: Standard Windows Installer (Recommended)
-1. Download **[`Clauzey-Setup-2.0.0.exe`](https://github.com/devanshd07o/CLAUZEY-V1/releases)** from the Releases section.
-2. Double-click the installer:
-   * Select your preferred install location (defaults to user directory with zero admin UAC prompt needed).
-   * Automatically creates Desktop and Start Menu shortcuts.
-3. Launch Clauzey and start orchestrating!
+Clauzey is an independent project. It is not affiliated with, endorsed by, or sponsored by Anthropic, OpenAI, Google, DeepSeek, xAI or Perplexity. All product names and trademarks belong to their respective owners.
 
-### Option 2: Standalone Portable Binary
-1. Download **[`Clauzey-Portable-2.0.0.exe`](https://github.com/devanshd07o/CLAUZEY-V1/releases)**.
-2. Run directly from your Desktop, SSD, or USB flash drive without installing.
-3. All user data is isolated inside a self-contained data directory.
+In **signed-in session mode** you interact with each provider's web service using your own account. You are responsible for following each provider's terms of service and usage policies. **API mode** uses each provider's official API under your own key. If you want the most predictable and policy-clear setup, use API mode.
 
 ---
 
-## 📋 System Requirements
+## Installation
 
-* **Operating System**: Windows 10 (64-bit) or Windows 11 (64-bit)
-* **Processor**: Intel Core i3 / AMD Ryzen 3 or higher
-* **Memory**: 4 GB RAM (2 GB with Low-End PC Performance Mode enabled)
-* **Disk Space**: 400 MB free space
+### Option 1: Installer (recommended)
+1. Download **`Clauzey-Setup-2.0.0.exe`** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
+2. Run it and choose an install location. The default is your user directory and needs no admin prompt.
+3. Desktop and Start Menu shortcuts are created automatically. Launch Clauzey and follow the first-run setup.
+
+### Option 2: Portable
+1. Download **`Clauzey-Portable-2.0.0.exe`** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
+2. Run it from your desktop, an SSD or a USB drive. No installation is needed.
+3. All user data stays inside a self-contained data directory.
+
+> **Windows SmartScreen notice:** Clauzey 2.0 installers are not yet code-signed, so Windows may show "Windows protected your PC" on first launch. Select **More info**, then **Run anyway**. Download Clauzey only from this repository's Releases page.
+
+### First run
+1. Complete the short developer profile.
+2. Connect a provider: sign in, or add an API key in Settings.
+3. Pick a mode (Compare, Council, Super MoA or Sequential) and send your first prompt.
 
 ---
 
-## 📄 License & Evaluation
+## System Requirements
 
-Clauzey 2.0 is distributed with a **2-Month Free Evaluation License** valid through **November 21, 2026**.
+| | Minimum | Recommended |
+| :--- | :--- | :--- |
+| **OS** | Windows 10 (64-bit) | Windows 11 (64-bit) |
+| **Processor** | Intel Core i3 / AMD Ryzen 3 | Intel Core i5 / AMD Ryzen 5 or better |
+| **Memory** | 4 GB RAM | 8 GB RAM or more |
+| **Disk** | 400 MB free | 1 GB free |
 
-To request enterprise licenses, custom model integrations, or developer activation keys (`CLAUZEY-PRO-2026`), contact the developer via the in-app About tab.
+Running several providers at once uses more memory. On lower-end machines, turn on **Settings → Appearance → Smooth Animations & Motion → Performance Mode**.
+
+---
+
+## FAQ
+
+<details>
+<summary><b>Do I need API keys?</b></summary>
+
+No. You can sign in to your existing provider accounts instead. API keys are recommended if you want predictable models and higher, officially documented limits.
+</details>
+
+<details>
+<summary><b>Which model will I get?</b></summary>
+
+Whichever model the provider serves to your account tier or API key. Free and paid accounts see different models. See [Supported Providers](#supported-providers).
+</details>
+
+<details>
+<summary><b>Is my data sent to Clauzey?</b></summary>
+
+No. Clauzey has no servers that receive your data and collects no telemetry. Your prompts go only to the providers you choose to use.
+</details>
+
+<details>
+<summary><b>Why does Windows show a SmartScreen warning?</b></summary>
+
+The installers are not code-signed yet, and Windows warns about apps without an established reputation. Use **More info → Run anyway**, and download only from this repository.
+</details>
+
+---
+
+## License
+
+Clauzey 2.0 is distributed under a proprietary **free evaluation license**, valid through **November 21, 2026**. For extended licensing or custom integrations, contact the developer through the in-app About tab.
+
+Bug reports and feature requests: [GitHub Issues](https://github.com/devanshd07o/CLAUZEY-V1/issues).
 
 ---
 
@@ -156,6 +198,6 @@ To request enterprise licenses, custom model integrations, or developer activati
 
 **[Download Clauzey 2.0 for Windows](https://github.com/devanshd07o/CLAUZEY-V1/releases)**
 
-*Developed with ❤️ by Devansh • Supreme Multi-LLM Desktop Computing*
+Built by Devansh
 
 </div>
