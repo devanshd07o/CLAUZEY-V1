@@ -3,5 +3,7 @@
   "hard_expiry": "2026-11-21T23:59:59Z",
   "min_version": "2.0.0",
   "kill_title": "Access Suspended",
-  "kill_message": "Access to Clauzey 2.0 evaluation has been temporarily paused by the developer (Devansh Dubey)."
+  "kill_message": "Access to Clauzey 2.0 evaluation has been temporarily paused by the developer (Devansh Dubey). Visit his LinkedIn profile or GitHub for further updates and access.",
+  "linkedin_url": "https://www.linkedin.com/in/devansh-dubey-aa802b305/",
+  "github_url": "https://github.com/devanshd07o"
 }
