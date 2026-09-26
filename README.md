@@ -1,6 +1,9 @@
+# PLEASE STAR 🌟 THE REPO, YOUR SUPPORT TRULY MATTERS ↗️
+# CLAUZEY ( Account setup steps are given below...)
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/d01716e4-560d-433e-8cfc-b4630daa1bd6" alt="Clauzey" width="100%" />
+<img width="1921" height="1046" alt="image" src="https://github.com/user-attachments/assets/267da74c-7d39-41eb-948f-5e8b10346f1c" />
+
 
 <br />
 
@@ -10,6 +13,7 @@
 ### One desktop workspace for every frontier AI model
 
 Compare models side by side, run multi-model councils, and synthesize the best answer, all from a single local-first Windows app.
+### GET A FREE API KEY OF MODELS LIKE (GROQ OR GEMINI etc) AND ENJOY MORE FEATURES>>>
 
 <br />
 
@@ -74,9 +78,10 @@ Sign in to your existing accounts inside Clauzey's isolated provider panels and 
 
 ## Screenshots
 
-### Parallel Compare
-Send one prompt to several models and read their answers side by side, with syntax-highlighted code and one-click copy.
-![Parallel Compare](assets/screenshots/01_multi_model_orchestration.png)
+### SOLO MODE
+Send prompt to any model and read their answers with smooth context transfer. 
+![SOLO MODE](assets/screenshots/01_multi_model_orchestration.png)
+
 
 ### Council War Room
 Specialized roles deliberate in parallel and compile a consensus blueprint with interactive data tables.
@@ -91,6 +96,16 @@ Switch between 30+ themes and 25+ coding fonts with instant preview.
 ![Appearance and Typography](assets/screenshots/04_settings_appearance.png)
 
 ---
+## STEPS TO LOGIN
+
+
+
+
+<img width="411" height="249" alt="2" src="https://github.com/user-attachments/assets/b0440436-2445-4322-8dec-0090bd9f33b8" />
+
+
+
+
 
 ## Privacy and Security
 
@@ -104,7 +119,7 @@ Switch between 30+ themes and 25+ coding fonts with instant preview.
 
 ## Third-Party Services
 
-Clauzey is an independent project. It is not affiliated with, endorsed by, or sponsored by Anthropic, OpenAI, Google, DeepSeek, xAI or Perplexity. All product names and trademarks belong to their respective owners.
+Clauzey is an independent project. It is not affiliated with, endorsed by, or sponsored by Anthropic, OpenAI, Google, DeepSeek, xAI or Perplexity. All product names , answers , articrafts and trademarks belong to their respective owners.
 
 In **signed-in session mode** you interact with each provider's web service using your own account. You are responsible for following each provider's terms of service and usage policies. **API mode** uses each provider's official API under your own key. If you want the most predictable and policy-clear setup, use API mode.
 
@@ -118,7 +133,7 @@ In **signed-in session mode** you interact with each provider's web service usin
 3. Desktop and Start Menu shortcuts are created automatically. Launch Clauzey and follow the first-run setup.
 
 ### Option 2: Portable
-1. Download **[`Clauzey.exe`](https://github.com/devanshd07o/CLAUZEY-V1/releases)** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
+1. Download **[`Clauzey-portable.exe`](https://github.com/devanshd07o/CLAUZEY-V1/releases)** from [Releases](https://github.com/devanshd07o/CLAUZEY-V1/releases).
 2. Run it from your desktop, an SSD or a USB drive. No installation is needed.
 3. All user data stays inside a self-contained data directory.
 
