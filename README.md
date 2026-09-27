@@ -7,13 +7,14 @@
 
 <br />
 
-# Clauzey 2.0
+# Clauzey
 # **[Download Installer](https://github.com/devanshd07o/CLAUZEY-V1/releases)** &nbsp;·&nbsp; **[Download Portable](https://github.com/devanshd07o/CLAUZEY-V1/releases)**
 
 ### One desktop workspace for every frontier AI model
 
 Compare models side by side, run multi-model councils, and synthesize the best answer, all from a single local-first Windows app.
-### GET A FREE API KEY OF MODELS LIKE (GROQ OR GEMINI etc) AND ENJOY MORE FEATURES>>>
+
+### GET A FREE API KEY OF MODELS LIKE (GROQ OR GEMINI etc) AND ENJOY MORE FEATURES......
 
 <br />
 
@@ -93,17 +94,16 @@ Set your persona, technical domain and directives so responses start from your c
 
 ### Appearance and Typography
 Switch between 30+ themes and 25+ coding fonts with instant preview.
+
 ![Appearance and Typography](assets/screenshots/04_settings_appearance.png)
 
 ---
 ## STEPS TO LOGIN
-
-
-
+<img width="1921" height="1042" alt="1" src="https://github.com/user-attachments/assets/04b4fada-4b84-4954-8b91-ddd010c64b65" />
 
 <img width="411" height="249" alt="2" src="https://github.com/user-attachments/assets/b0440436-2445-4322-8dec-0090bd9f33b8" />
 
-
+<img width="1921" height="990" alt="3" src="https://github.com/user-attachments/assets/26d275bb-1cb1-405a-9de9-866a7043d0b2" />
 
 
 
