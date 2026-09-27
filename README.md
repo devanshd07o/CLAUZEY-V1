@@ -8,6 +8,8 @@
 <br />
 
 # Clauzey
+### 🔴 REOPEN THE APP AFTER LOGGING IN EVERY AI MODEL. THEY MIGHT NOT WORK JUST AFTER LOGIN. APP NEEDS TO BE REOPENED...
+
 # **[Download Installer](https://github.com/devanshd07o/CLAUZEY-V1/releases)** &nbsp;·&nbsp; **[Download Portable](https://github.com/devanshd07o/CLAUZEY-V1/releases)**
 
 ### One desktop workspace for every frontier AI model
