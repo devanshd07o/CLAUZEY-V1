@@ -1,5 +1,5 @@
 # PLEASE STAR 🌟 THE REPO, YOUR SUPPORT TRULY MATTERS ↗️
-# CLAUZEY ( Account setup steps are given below...)
+# CLAUZEY ( Account setup steps are given below...)~ LATEST RELEASE - 3 oct 2026
 <div align="center">
 
 <img width="1921" height="1046" alt="image" src="https://github.com/user-attachments/assets/267da74c-7d39-41eb-948f-5e8b10346f1c" />
